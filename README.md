@@ -40,5 +40,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-h3x&" alt="the-h3x" /></p>
 
-<img align="center" alt="loeading" width="100%" src="https://i0.wp.com/gamedev-resources.com/wp-content/uploads/2021/04/1-final.gif?fit=700%2C300&ssl=1">
+<img align="center" alt="loeading" width="100%" src="https://mdbcdn.b-cdn.net/wp-content/uploads/2019/02/chart2.jpg">
 
