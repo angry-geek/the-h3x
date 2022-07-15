@@ -20,11 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <style>
-    *{
-        margin:4;
-    }
-  </style>
+
 <a href="https://twitter.com/soheilvanaee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soheilvanaee" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/soheil vanaee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soheil vanaee" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/soheilvanaeehunter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="soheilvanaeehunter" height="30" width="40" /></a>
