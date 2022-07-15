@@ -5,7 +5,20 @@
 
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=the-h3x&label=Profile%20views&color=0e75b6&style=flat" alt="the-h3x" /> </p>
 
-<p align="left" width="100%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=the-h3x" alt="the-h3x" /></a> </p>
+<center>
+    <table>
+        <tr>
+            <td>
+                <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=the-h3x&show_icons=true&theme=dark&hide_border=true" />
+            </td>
+            <td>
+                <img width="400px" align="left" src="http://github-readme-streak-stats.herokuapp.com?user=the-h3x&theme=dark&hide_border=true" />
+            </td>
+        </tr>
+    </table>
+</center>  
+
+
 
 <p align="left"> <a href="https://twitter.com/soheilvanaee" target="blank"><img src="https://img.shields.io/twitter/follow/soheilvanaee?logo=twitter&style=for-the-badge" alt="soheilvanaee" /></a> </p>
 
