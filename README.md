@@ -18,6 +18,7 @@
 - 📫 How to reach me **soheil.vanaee.hunter@gmail.com, dark99programmer@gmail.com**
 
 - 📄 Know about my experiences [soheil-vanaee.ir](soheil-vanaee.ir)
+- ⚡ Fun fact **cyber security researcher, ethical hacker, programmer, geek**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
