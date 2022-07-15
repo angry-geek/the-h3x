@@ -1,11 +1,11 @@
 <img align="center" alt="soheilvanaee" width="100%" src="https://github.com/the-h3x/imagesForREADME/blob/main/soheil%20vanaee.png"> 
 <h1 align="center">Hi 👋, I'm soheil vanaee</h1>
 <h3 align="center">A cyber security researcher from Iran</h3>
-<img align="right" alt="hacking" width="400" src="https://c.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="center" alt="hacking" width="100%" src="https://c.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-h3x&label=Profile%20views&color=0e75b6&style=flat" alt="the-h3x" /> </p>
 
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-h3x" alt="the-h3x" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-h3x" alt="the-h3x" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/soheilvanaee" target="blank"><img src="https://img.shields.io/twitter/follow/soheilvanaee?logo=twitter&style=for-the-badge" alt="soheilvanaee" /></a> </p>
 
