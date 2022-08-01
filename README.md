@@ -8,7 +8,7 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=the-h3x&theme=react-dark)  
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>)
+![](https://img.shields.io/static/v1?label=<network>&message=NetWork&color=<COLOR>)
 
 
 
