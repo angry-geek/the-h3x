@@ -21,6 +21,6 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=the-h3x&theme=react-dark)  
 
-
+<img src="https://img.lovepik.com/original_origin_pic/19/01/05/80f74641572f0246ea6c308c600abf9f.png_wh300.png">
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
