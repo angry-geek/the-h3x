@@ -1,4 +1,4 @@
-<img alt="soheil-vanaee" width="100%" src="https://kapost-files-prod.s3.amazonaws.com/uploads/direct/1434770698-29468-7471/Cybersecurity.gif">
+<img alt="soheil-vanaee" width="100%" src="https://academy.avast.com/hubfs/New_Avast_Academy/Hackers/Hacker-Hero-a1.png">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
