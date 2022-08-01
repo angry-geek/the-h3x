@@ -2,10 +2,11 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=soheil,+vanaee+;django+developer&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=soheil,+vanaee+;cyber+security&center=true&size=30">
   </a>
 </h1>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=the-h3x&theme=react-dark)  
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
