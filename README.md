@@ -28,7 +28,7 @@
 
 <p>&nbsp;<img align="center" width="90%" src="https://github-readme-stats.vercel.app/api?username=the-h3x&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
 
-<p><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=the-h3x&&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="center" width="90%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=the-h3x&&theme=tokyonight" alt="rishavchanda" /></p>
 <!-- thropy -->
 <a href="soheil-vanaee.ir">
     <p align="center" width="100%">
