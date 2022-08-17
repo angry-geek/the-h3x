@@ -4,20 +4,20 @@
   </a>
 </h1>
 <h1 align="center">SOHEIL VANAEE</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Cyber security researcher</h3>
 <img align="right" alt="scullhacker" width="400" src="https://mayecreate.com/wp-content/uploads/2022/05/hacker-gif-1.gif">
 
 
 
-- 🔭 I’m currently working on **Buckoid Android App**
+- 🌱 I’m currently learning **Mysql , SQL server**
 
-- 🌱 I’m currently learning **DevOps**
+- 📝 I regularly write articles on [soheil-vanaee.ir](soheil-vanaee.ir)
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **python and linux**
 
-- 📫 How to reach me **rishavchanda0@gmail.com**
+- 📫 How to reach me **soheil.vanaee.hunter@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- 📄 Know about my experiences [soheil-vanaee.ir](soheil-vanaee.ir)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
