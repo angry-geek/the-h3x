@@ -20,7 +20,7 @@
 - 📄 Know about my experiences [soheil-vanaee.ir](soheil-vanaee.ir)
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-h3x&layout=compact&theme=tokyonight" alt="languages" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=the-h3x&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>
     </p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=the-h3x&theme=react-dark)  
