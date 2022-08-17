@@ -1,4 +1,4 @@
-<img align="center" alt="hacker" width="100%" src="https://www8.gsb.columbia.edu/articles/sites/articles/files/uploads/image/img-cbz-cyber.gif">
+<img align="center" alt="hacker" width="100%" src="[https://www8.gsb.columbia.edu/articles/sites/articles/files/uploads/image/img-cbz-cyber.gif](https://www.indusface.com/wp-content/uploads/2017/05/Indusface-What-is-Ethical-Hacking.jpg)">
 <h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="scullhacker" width="400" src="https://mayecreate.com/wp-content/uploads/2022/05/hacker-gif-1.gif">
