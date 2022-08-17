@@ -1,23 +1,28 @@
-<img alt="soheil-vanaee" width="100%" src="https://academy.avast.com/hubfs/New_Avast_Academy/Hackers/Hacker-Hero-a1.png">
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-  </a>
-</h1>
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<h1 align="center">Hi I'm soheil vanaee</h1>
-<h3 align="center">cyber security researcher</h3>
 
-- 🌱 I’m currently learning **Mysql , SQL server**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
-- 📝 I regularly write articles on [soheil-vanaee.ir](soheil-vanaee.ir)
+<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> </p>
 
-- 💬 Ask me about **python and linux**
+- 🔭 I’m currently working on **Buckoid Android App**
 
-- 📫 How to reach me **soheil.vanaee.hunter@gmail.com**
+- 🌱 I’m currently learning **DevOps**
 
-- 📄 Know about my experiences [soheil-vanaee.ir](soheil-vanaee.ir)
+- 💬 Ask me about **Android , MEARN**
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=the-h3x&theme=react-dark)  
+- 📫 How to reach me **rishavchanda0@gmail.com**
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+- ⚡ Fun fact **I am Funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/rishavchanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rishav-chanda-b89a791b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+<a href="https://instagram.com/rishav_chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/rishav chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
+</p>
