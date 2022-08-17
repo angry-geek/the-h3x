@@ -3,7 +3,7 @@
   <a href="https://git.io/typing-svg">
   </a>
 </h1>
-<h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
+<h1 align="center">SOHEIL VANAEE</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="scullhacker" width="400" src="https://mayecreate.com/wp-content/uploads/2022/05/hacker-gif-1.gif">
 
